@@ -2,8 +2,6 @@
 
 A from-scratch implementation of Naive Bayes for email spam detection, demonstrating the critical importance of numerical stability in machine learning.
 
-## 🎯 Key Achievement
-
 **Improved accuracy from 84.82% to 99.21%** by implementing log-space computations to handle numerical underflow.
 
 ## 📊 Results
